@@ -1,118 +1,111 @@
-🔥 General 2-Month Coding Roadmap
-🎯 Goal: Become proficient in a programming language + build real projects + understand key CS concepts.
-📅 Month 1 – Core Foundations + One Track Focus
-🔹 Week 1: Choose Your Path + Master the Basics
+📅 Month 1: Foundations of Cybersecurity & Linux Mastery
+🔑 Goal: Understand core networking, OS concepts, and tools.
+🗓️ Weeks 1–2: Basics of IT and Networking
 
-    ✅ Pick a main language: Python, JavaScript, or C++.
+    Learn how the internet works, IP addresses, DNS, TCP/IP
 
-    ✅ Learn syntax, variables, loops, conditionals, functions.
+    Study OSI model, ports, protocols (HTTP, FTP, SSH, etc.)
 
-    📘 Recommended: W3Schools, freeCodeCamp, or Codecademy.
+    Resources:
 
-    ⏰ Time: 2–3 hours/day.
+        Cisco Networking Basics
 
-Mini-Project: Create a calculator or number guessing game.
-🔹 Week 2: Dive Deeper
+        Professor Messer Network+ videos (YouTube)
 
-    ✅ Data structures: arrays/lists, dictionaries/maps, sets.
+🗓️ Weeks 3–4: Linux & Bash Scripting
 
-    ✅ String manipulation, functions, input/output.
+    Practice Linux CLI daily (Ubuntu or Kali Linux)
 
-    ✅ Practice on platforms: LeetCode, HackerRank, Codeforces.
+    Learn file permissions, users, services, systemctl, networking
 
-Mini-Project: Build a basic to-do list CLI or webpage.
-🔹 Week 3: Learn Git + Build More
+    Bash scripting basics (loops, if-else, variables)
 
-    ✅ Learn Git & GitHub basics.
+Tools to Practice:
 
-    ✅ Start using version control for your code.
+    VirtualBox or VMware + Kali Linux
 
-    ✅ Study basic algorithms (sorting, searching).
+    Practice with nmap, netstat, curl, ping, dig, whois
 
-    ✅ Keep solving 3–5 problems/day on LeetCode.
+📅 Month 2: Hands-On Penetration Testing & Tools
+🔑 Goal: Learn attack methods, enumeration, scanning, and basic exploitation.
+🗓️ Week 1: Vulnerability Scanning & Recon
 
-Mini-Project: Make a portfolio page or a simple blog.
-🔹 Week 4: Choose a Focus Area
+    Passive Recon (OSINT): theHarvester, Recon-ng, Google dorks
 
-Choose one:
+    Active Recon: nmap, nikto, whatweb, dirb, gobuster
 
-    🌐 Web Development (HTML, CSS, JS)
+🗓️ Week 2: Enumeration & Exploitation Basics
 
-    📊 Data Science (Python, Pandas, Matplotlib)
+    Understand SMB, FTP, HTTP enumeration
 
-    🤖 Machine Learning (Python + Scikit-learn)
+    Exploit misconfigurations (default credentials, unpatched services)
 
-    🎮 Game Dev (Unity + C# or Pygame)
+🗓️ Week 3: Metasploit Framework
 
-    🐧 System Programming (C/C++ or Rust)
+    Learn basic Metasploit modules, payloads
 
-    💻 Competitive Programming (C++ or Python)
+    Run exploits on vulnerable machines
 
-Mini-Project: Build something aligned to your choice.
-📅 Month 2 – Build Real Projects + Advanced Practice
-🔹 Week 5: Real Projects Begin
+🗓️ Week 4: Vulnerable Machines Practice
 
-    ✅ Learn frameworks (e.g., React, Flask, Django).
+    Platforms:
 
-    ✅ Build your first serious project.
+        TryHackMe (do “Complete Beginner” + “Pre Security” + “Jr Penetration Tester” path)
 
-    ✅ Keep pushing to GitHub.
+        Hack The Box (starting point: easy machines)
 
-Project Ideas:
+    Tools:
 
-    Web app: Notes app / Weather app / Blog CMS
+        hydra, sqlmap, john, hashcat, burp suite, wireshark
 
-    Data: Data analysis of COVID/stock/tweet data
+📅 Month 3: Advanced Techniques & Real-World Simulation
+🔑 Goal: Exploit web apps, gain privilege, write reports, prepare for real-world jobs.
+🗓️ Week 1: Web Application Hacking
 
-    CP: Solve 10+ problems on Codeforces
+    OWASP Top 10 (XSS, SQLi, LFI, RFI, IDOR)
 
-🔹 Week 6: Algorithms & Problem Solving
+    Burp Suite for testing and intercepting traffic
 
-    ✅ Learn sorting (merge/quick), recursion, trees, hashmaps.
+    TryHackMe: “Web Fundamentals”, “OWASP Top 10”
 
-    ✅ Read from “Grokking Algorithms” or use visual tools.
+🗓️ Week 2: Privilege Escalation (Linux + Windows)
 
-    ✅ Start solving problems that involve deeper logic.
+    Learn how to escalate from low-level shell to root/admin
 
-Project/Practice: Create a custom quiz app with a timer or explore linked lists and graphs.
-🔹 Week 7: Polish + Collaborate
+    Tools: linpeas, winpeas, sudo -l, ps, crontab, schtasks
 
-    ✅ Join a community (GitHub, Discord, Telegram coding groups).
+🗓️ Week 3: CTFs & Practice
 
-    ✅ Contribute to an open-source project (even documentation counts).
+    Solve CTF challenges on:
 
-    ✅ Review and improve your older projects.
+        TryHackMe: “Red Team”, “Pentest+”, “AttackBox”
 
-🔹 Week 8: Portfolio & Launch
+        PicoCTF or Hack The Box: “Starting Point” → easy boxes
 
-    ✅ Polish your GitHub.
+🗓️ Week 4: Reporting & Career Prep
 
-    ✅ Deploy a project (Netlify, Vercel, Render, or Replit).
+    Learn how to write a penetration testing report (findings + recommendations)
 
-    ✅ Create a resume and portfolio site.
+    Build a GitHub portfolio with:
 
-    ✅ Start applying to internships, freelancing gigs, or contributing consistently to open source.
+        Notes
 
-🛠 Tools & Platforms to Use:
+        Bash/Python scripts
 
-    IDEs: VS Code, PyCharm
+        CTF writeups
 
-    Version Control: Git + GitHub
+🔚 After 3 Months: What’s Next?
 
-    Practice: LeetCode, HackerRank, Codeforces
+    Attempt OSCP or eJPT certification
 
-    Tutorials: freeCodeCamp, The Odin Project, YouTube (Fireship, TraversyMedia)
+    Apply for junior pentester or red team internships
 
-    Project Hosting: Netlify, Vercel, Replit, GitHub Pages
+    Join communities: r/netsec, Discords like “The Cyber Mentor”, “InfoSec Prep”
 
-📌 Tips for Success:
-
-    ✅ Code daily (even 1–2 hours helps).
-
-    ✅ Don’t just watch — build.
-
-    ✅ Debug your own errors.
-
-    ✅ Take breaks to avoid burnout.
-
-    ✅ Ask questions (Stack Overflow, ChatGPT, Reddit).
+🧰 Tools Summary:
+Category	Tools
+Recon	nmap, theHarvester, Recon-ng, gobuster
+Exploitation	Metasploit, sqlmap, Burp Suite, hydra
+Cracking	hashcat, john, rockyou.txt
+PrivEsc	linpeas, winpeas, sudo, capabilities
+Miscellaneous	Wireshark, netcat, tcpdump
