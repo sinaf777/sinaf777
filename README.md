@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sinaf Debeli and an undergraduate student at haramaya university </h2>
+<h2 align="left">Hi 👋! My name is Sinaf Debeli<br> Student at Haramaya University </h2>
 
 ###
 
