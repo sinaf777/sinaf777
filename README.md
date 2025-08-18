@@ -1,7 +1,5 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sinaf777.png)](https://tryhackme.com/p/sinaf777)
 
-<h2 align="left"><br> <br> BACK TO 5O5 </h2>
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/1odfX5DN3SwAAAAM/ethiopia-flag-gif.gif"  />
