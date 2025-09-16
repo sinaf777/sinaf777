@@ -1,5 +1,4 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/sinaf777.png" alt="Your Image Badge" />
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/1odfX5DN3SwAAAAM/ethiopia-flag-gif.gif"  />
